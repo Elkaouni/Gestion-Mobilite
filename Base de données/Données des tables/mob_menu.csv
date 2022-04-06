@@ -1,0 +1,22 @@
+id,name,tag,pid,icon,Active
+51,Elèves 2A,39,,fa-graduation-cap,Y
+12,Gestion du menu,29,,fa-accordion,Y
+43,POOL,2,,fa-forms,Y
+42,Filières,4,,fa-forms,Y
+14,Users,44,,fa-users,Y
+52,Charger liste des 2A,8,51,fa-forms,Y
+41,Accueil ,33,,fa-home,Y
+13,Contrôle d'accès,36,,fa-universal-access,Y
+45,Nombre de places,24,,fa-address-card,Y
+22,Choix de mobilité,9,,fa-graduation-cap,Y
+56,Importer notes,49,51,fa-sticky-note-o,Y
+46,Affectation,43,51,fa-graduation-cap,Y
+11,Home - Admin,31,,fa-home,Y
+31,Accueil - scolarité,34,,fa-home,Y
+55,Modifier password,50,53,fa-key,Y
+1,Home,1,,fa-home,Y
+44,Ecoles Partenaires,18,,fa-university,Y
+21,Accueil - Etudiant,32,,fa-home,Y
+53,Mes informations ,47,,fa-info-circle,Y
+54,Modifier ,48,53,fa-edit,Y
+47,Seuils,22,,fa-forms,Y

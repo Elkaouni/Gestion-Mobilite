@@ -1,0 +1,10 @@
+LOGIN_PK,PROFILE_OWNER_FK,PROFILE_FK,USERNAME,PASSWD,EMAIL,NOM,PRENOM
+25,2,2,MD123457,123456,maha_deb@mobilite.ma,DEB,HIND
+4,4,4,coord,coord,coord@mobilite.com,ALAMI,Mohamed
+3,3,3,scola,scola,scola@mobilite.com,BENNIS,Nawal
+1,1,1,admin,admin,admin@mobilite.com,DRISSI,Maha
+20,4,2,youssef,youssef,youssef_elamoud@mobilite.ma,ELAMOUD,Youssef
+21,4,2,KY123457,KY123457,,ELKAOUNI,Yousra
+22,4,2,MD123458,MD123458,,BOUZAIDI,Manal
+23,4,2,AY123458,AY123458,,BENADDOU,Iliass
+24,4,2,KY123458,KY123458,,FEKKAK,Hatim
